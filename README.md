@@ -1,5 +1,4 @@
 # AutoLoginForMoodle
-When you log in to Moodle, it automatically logs you in on your behalf.
 
 Moodleにログインを要求されたとき自動でログイン処理を行ってくれるchrome拡張機能です。  
 
