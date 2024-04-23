@@ -3,9 +3,9 @@
     "description": "When you log in to Moodle, it automatically logs you in on your behalf.",
     "version": "1.0.0",
     "manifest_version": 3,
-    "host_permissions": ["https://moodle2023.mc2.osakac.ac.jp/2023/login/index.php"],
+    "host_permissions": ["https://moodle2024.mc2.osakac.ac.jp/2024/login/index.php"],
     "content_scripts": [{
-        "matches": ["https://moodle2023.mc2.osakac.ac.jp/2023/login/index.php"],
+        "matches": ["https://moodle2024.mc2.osakac.ac.jp/2024/login/index.php"],
         "js": ["content.js"]
     }]
 }
