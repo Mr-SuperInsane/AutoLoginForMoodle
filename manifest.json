@@ -1,7 +1,7 @@
 {
     "name": "Moodle Auto Login",
     "description": "When you log in to Moodle, it automatically logs you in on your behalf.",
-    "version": "1.0.0",
+    "version": "2.0.0",
     "manifest_version": 3,
     "host_permissions": ["https://moodle2024.mc2.osakac.ac.jp/2024/login/index.php"],
     "content_scripts": [{
